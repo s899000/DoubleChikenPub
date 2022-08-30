@@ -1,7 +1,7 @@
 # DoubleChikenPub
 windows双机热备工具
 
-功能说明：一台主机宕机，自动切换到另一台主机，对外提供公共ip,对业务无感，可以搭配mysql 主主复制使用
+功能说明：一台主机宕机,集群ip自动漂移到另一台主机,windows keeplived实现,应用或数据库使用集群ip,对业务无感
 
 
 
