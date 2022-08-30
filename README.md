@@ -6,7 +6,7 @@ windows双机热备工具
 
 
 
-有需要的朋友可以联系我微信 vicecity2
+有需要的朋友可以联系我微信 vicecity2,有偿提供
 
 
 ![lALPJxuMR5h_zBXNAcTNAbQ_436_452](https://user-images.githubusercontent.com/33239560/185076912-8db87595-e6fb-4cad-ad01-32ec1937e6eb.png)
